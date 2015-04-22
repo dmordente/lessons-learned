@@ -10,6 +10,10 @@ Some obvious ways of sounding out a would-be developer are by seeking references
 You can also seek out a developer’s previous direct reports to gauge their working style and interpersonal skills.
 Ideally, you will find a programmer who not only has the skills necessary for the build, but has some personal inclination towards the project. This passion for the content will be a hugely useful asset.
 
+It is also important to get a sense of the developer's approach to continuous improvement. Their familiarity with the concept of kaizen may be an important indicator here.
+
+A good question to ask a would-be developer is actually to explain something complex to a lay person in clear terms.
+
 Tips for Gaining credibility:
 
 1.  Create your own github profile and ask to be looped-in to the development process in real time
