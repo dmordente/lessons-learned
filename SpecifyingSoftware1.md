@@ -9,4 +9,7 @@ The first method is Connextra User stories.  In this practice, you write down sh
 Check out this useful article from Agile Alliance
 <a href="http://guide.agilealliance.org/guide/rolefeature.html">here.</a>
 
+And then check out this useful article from Medium
+<a href="https://medium.com/the-job-to-be-done/replacing-the-user-story-with-the-job-story-af7cdee10c27">here.</a>
+
 ![alt text](http://photosinbox.com/wp-content/uploads/2011/08/sticky-note.jpg "Note")
