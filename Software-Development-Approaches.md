@@ -3,3 +3,7 @@ Big Design Up Front (BDUF) is a linear approach to software development approach
 Kanban is a type of Agile approach to software development which aims to minimize waste and Work-in-Process by breaking down the software development process into small tasks.  Each task then goes through its own development process from start to finish, matching the amount of work in process with available capacity.  
 
 Scrum is another type of Agile approach, in which the product is built in a series of fixed-length iterations called sprints that give teams a framework for shipping software on a regular cadence. 
+
+You can find more information on the plethora of software development approaches <a href="http://en.wikipedia.org/wiki/List_of_software_development_philosophies">here.</a>
+
+![alt text](http://www.christipedia.nl/@api/deki/files/308/=binary.jpg "Coding")
